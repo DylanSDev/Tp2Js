@@ -10,4 +10,4 @@ for(let i = 0; i < str1.length; i++)
     }
 }
 
-document.write(contador);
+document.write("Cantidad de vocales: " + contador);
